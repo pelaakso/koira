@@ -1,0 +1,3 @@
+* lenkitys
+* ruokinta
+* pesu
