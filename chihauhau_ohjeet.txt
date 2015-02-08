@@ -1,3 +1,5 @@
 * lenkitys
 * ruokinta
 * pesu
+* kuivaus
+* föönaus
