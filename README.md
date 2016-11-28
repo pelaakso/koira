@@ -1,10 +1,12 @@
 # Koira
 
-Tietoa
+## Tietoa
+
 * koirat ja niiden paheet
 * hoito-ohjeet
 
-Koiramerkit
+## Koiramerkit
+
 * Puudeli
 * Noutaja
-* Chihauhau
+* Chihauhau, lisätietoja `täällä`
