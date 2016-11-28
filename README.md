@@ -8,5 +8,6 @@
 ## Koiramerkit
 
 * Puudeli
-* Noutaja
+* Noutaja, tässä on
+kuvaus, joka menee parille riville.
 * Chihauhau, lisätietoja `täällä`
