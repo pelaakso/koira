@@ -1,2 +1,3 @@
 * peseminen
 * harjaus
+* pyörän kanssa lenkkeily
