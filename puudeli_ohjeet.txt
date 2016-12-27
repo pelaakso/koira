@@ -1,3 +1,4 @@
 * harjaus
 * lenkitys
 * ruokinta
+* rapsutus
