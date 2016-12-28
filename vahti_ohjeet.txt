@@ -1,3 +1,4 @@
 * anna vahdittavaa
 * ruoki joskus
 * silitä vastakarvaan
+* uusi ohje lokaalisti
