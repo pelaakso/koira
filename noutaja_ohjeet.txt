@@ -1,3 +1,4 @@
 * lenkitys
 * ruokinta
+* juotto
 * pesu
