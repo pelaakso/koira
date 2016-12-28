@@ -4,3 +4,4 @@
 * pesu
 * kuivaus
 * föönaus
+* lokaali lisäys
