@@ -1,3 +1,4 @@
+* github lisäys
 * lenkitys
 * ruokinta
 * pesu
