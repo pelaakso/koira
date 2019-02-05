@@ -12,7 +12,7 @@
 kuvaus, joka menee parille riville.
 * Chihauhau, lisätietoja `täällä`
 * Mastiffi: kamala otus joka haukkuu, ei herkille!
-* Laboratorio
+* Laboratorio: kiva otus
 
 ```commandline
 usage: aws-message [-h] [-s STACK] [-a APPLICATION] [-t TEXT]
