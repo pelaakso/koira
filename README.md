@@ -14,6 +14,7 @@ kuvaus, joka menee parille riville.
 * Mastiffi: kamala otus joka haukkuu, ei herkille!
 * Laboratorio: kiva ja ystävällinen otus
 * Spanieli: Espanjalaista sukujuurta
+* Dobermanni: saksalainen
 
 ```commandline
 usage: aws-message [-h] [-s STACK] [-a APPLICATION] [-t TEXT]
