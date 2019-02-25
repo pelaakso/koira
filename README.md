@@ -16,6 +16,7 @@ kuvaus, joka menee parille riville.
 * Spanieli: Espanjalaista sukujuurta
 * Bulldoggi: doggy
 * Snauzeri: jejejejejejeje
+* Seisoja: seisoo
 
 ```commandline
 usage: aws-message [-h] [-s STACK] [-a APPLICATION] [-t TEXT]
