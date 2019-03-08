@@ -3,3 +3,4 @@
 * pyörän kanssa lenkkeily
 * vahaus
 * puunaus
+* kampaus
