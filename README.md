@@ -15,7 +15,8 @@ kuvaus, joka menee parille riville.
 * Laboratorio: kiva ja ystävällinen otus
 * Spanieli: Espanjalaista sukujuurta
 * Bulldoggi: doggy
-* Snauzeri: jejejejejeje
+* Snauzeri: jejejejejejeje
+* Seisoja: seisoo
 
 ```commandline
 usage: aws-message [-h] [-s STACK] [-a APPLICATION] [-t TEXT]
