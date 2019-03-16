@@ -17,7 +17,7 @@ kuvaus, joka menee parille riville.
 * Bulldoggi: doggy
 * Snauzeri: jejejejejejeje
 * Seisoja: seisoo
-* Jaja
+* Jaja: n/a
 
 ```commandline
 usage: aws-message [-h] [-s STACK] [-a APPLICATION] [-t TEXT]
