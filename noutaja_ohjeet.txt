@@ -2,3 +2,4 @@
 * ruokinta
 * juotto
 * pesu
+* harjaus
